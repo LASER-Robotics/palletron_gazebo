@@ -7,7 +7,7 @@ This repository provides the ROS package to simulate the Palletron robot on Gaze
 * On your workspace, clone this repository.
   ```bash
   cd ~/<your_workspace>/src
-  git clone https://github.com/thulioguilherme/palletron_gazebo.git
+  git clone https://github.com/LASER-Robotics/palletron_gazebo.git
   ```
 * Install dependencies.
   ```bash
